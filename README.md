@@ -10,10 +10,6 @@ The polygonscan link to the contract: https://polygonscan.com/address/0x7b6b9662
 
 Ultimately, the bot was not profitable and I will cover how I will tackle that in the future in the Next Steps section.
 
-Preview of a transaction:
-
-![Polygon USDC -> WMATIC arbitrage bot between QuickSwap and SushiSwap](https://ibb.co/m9Lf4Tx "Polygon USDC -> WMATIC arbitrage bot between QuickSwap and SushiSwap")
-
 ## Table of contents
 
 * [Technologies](#technologies)
