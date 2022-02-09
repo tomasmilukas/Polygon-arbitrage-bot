@@ -4,9 +4,9 @@ After writing an in-depth article on DeFi lending (https://tomasmilukasblog.com/
 
 This is a simple arbitrage bot that trades WMATIC and USDC when there is a a profitable opportunity on the Polygon chain. The reason for deploying the bot on the polygon chain is because the gas fees are far lower than on the majority of other Layer 1 chains and also because it has fewer competitors going after the same opportunities. The two AMMs used to find arbitrage opportunities are Quickswap and Sushiswap.
 
-If you are curious about the bot's results, here are the relevant details:
-The arbitrage contracts address: 0x7b6B9662358cBA054DDeD9409FA6Bc343F03c229
-The polygonscan link to the contract: https://polygonscan.com/address/0x7b6b9662358cba054dded9409fa6bc343f03c229
+If you are curious about the bot's results, here are the relevant details: <br>
+The arbitrage contracts address: 0x7b6B9662358cBA054DDeD9409FA6Bc343F03c229 <br>
+The polygonscan link to the contract: https://polygonscan.com/address/0x7b6b9662358cba054dded9409fa6bc343f03c229 <br>
 
 Ultimately, the bot was not profitable and I will cover how I will tackle that in the future in the Next Steps section.
 
@@ -18,10 +18,10 @@ Ultimately, the bot was not profitable and I will cover how I will tackle that i
 
 ## Technologies
 
-The contracts were coded with **Solidity**.
-The bot execution and API calls were done with **Python**.
-The API calls were done on Infura.
-The server for the bot was rented on Heroku.
+The contracts were coded with **Solidity**. <br>
+The bot execution and API calls were done with **Python**. <br>
+The API calls were done on Infura. <br>
+The server for the bot was rented on Heroku. <br>
 	
 ## Setup
 
